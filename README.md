@@ -1,6 +1,8 @@
 <!-- Sqlalchemy-challenge -->
 # Backgroud
 
+https://static.bc-edx.com/data/dla-1-2/m10/lms/img/surfs-up.jpg
+
 Congratulations! You've decides to treat yourself to a long holiday vacation in Hononlulu, Hawaii. To help with your trip planning, you decide to do a climate ananlysis about the area. The following sections outline the steps that you need to take to accomplish thsi task.
 
 # Part 1: Analyse and Explore the Climate Data
